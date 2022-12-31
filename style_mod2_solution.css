@@ -1,0 +1,188 @@
+h1{text-align: center;}
+h2{position: relative;bottom:75%;left:30%}
+
+
+
+#container{border:1px solid;
+           width: 100%;
+           height: 100%; 
+           background-color:white;
+           position:absolute;float:left}
+
+
+@media screen {
+
+      .box1{border: 1px solid;
+      height:20%; 
+      width:50%;
+      background-color:gray;
+      position:fixed;
+      Top:10%;left:25%}
+      .box2{border:1px solid;
+      height:19%;
+      width:37%;
+      background-color: hotpink;
+      position:relative;
+      top: 0%;
+      left:61.5%;}
+      
+      .box3{border: 1px solid;
+      height:20%; 
+      width:50%;
+      background-color: gray;
+      position: fixed;
+      top:35%;left:25%}
+      .box4{border:1px solid;
+      height:19%;
+      width:37%;       
+      background-color: skyblue;
+      position: relative;
+      Top:0%;
+      Left: 61.5%}
+      
+      .box5{border: 1px solid;
+      height:20%; 
+      width:50%;
+      background-color: gray;
+      position: fixed;
+      top:60%;
+      left:25%}
+      .box6{border:1px solid;
+      height:19%;
+      width:37%;      
+      background-color: greenyellow;
+      position: relative;
+      Top:0%;Left:61.5%;}}
+
+
+
+
+
+
+
+
+
+
+
+@media screen and (min-width:991px){
+
+
+.box1{border: 1px solid;
+      height:20%; 
+      width:30%;
+      background-color:gray;
+      position:fixed;
+      Top:10%;left:2%}
+
+.box2{border:1px solid;
+      height:19%;
+      width:55%;
+      background-color: hotpink;
+      position:relative;
+      top: 0%;
+      left:43.5%;}
+      
+.box3{border: 1px solid;
+      height:20%; 
+      width:30%;
+      background-color: gray;
+      position: fixed;
+      top:10%;left:36%}
+
+.box4{border:1px solid;
+      height:19%;
+      width:37%;       
+      background-color: skyblue;
+      position: relative;
+      Top:0%;
+      Left: 61.5%}
+
+
+.box5{border: 1px solid;
+      height:20%; 
+      width:30%;
+      background-color: gray;
+      position: fixed;
+      top:10%;
+      left:70%}
+
+.box6{border:1px solid;
+      height:19%;
+      width:47%;      
+      background-color: greenyellow;
+      position: relative;
+      Top:0%;Left:51.5%;}}
+
+
+
+ @media screen and (min-width:768px) and (max-width:992px) {
+
+
+.box1{border: 1px solid;
+      height:20%; 
+      width:45%;
+      background-color:gray;
+      position:fixed;
+      Top:10%;left:2%}
+
+.box2{border:1px solid;
+      height:19%;
+      width:30%;
+      background-color: hotpink;
+      position:relative;
+      top: 0%;
+      left:69.5%;}
+      
+.box3{border: 1px solid;
+      height:20%; 
+      width:45%;
+      background-color: gray;
+      position: fixed;
+      top:10%;left:53%;}
+
+.box4{border:1px solid;
+      height:19%;
+      width:30%;       
+      background-color: skyblue;
+      position: relative;
+      Top:0%;
+      Left: 69.5%}
+
+
+.box5{border: 1px solid;
+      height:20%; 
+      width:96%;
+      background-color: gray;
+      position: fixed;
+      top:40%;
+      left:2%}
+
+.box6{border:1px solid;
+      height:19%;
+      width:15%;      
+      background-color: greenyellow;
+      position: relative;
+      Top:0%;Left:84.7%;}
+      
+      }
+
+
+
+
+
+
+
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
